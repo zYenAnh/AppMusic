@@ -28,44 +28,44 @@ const app = {
             {
             name: "爱你到最后一刻",
             singer: "Mạc Tỷ Tỷ",
-            path: "./music/YeuAnhDenKhoanhKhacCuoiCung - Mac.mp3",
-            image:"./img/Song1.png"
+            path: "./assets/music/YeuAnhDenKhoanhKhacCuoiCung - Mac.mp3",
+            image:"./assets/img/Song1.png"
             },
             {
               name: "Hẹn ước từ hư vô",
               singer: "Mỹ Tâm",
-              path: "./music/Henuoctuhuvo.mp3",
-              image:"./img/Song2.png"
+              path: "./assets/music/Henuoctuhuvo.mp3",
+              image:"./assets/img/Song2.png"
             },
             {
               name: "Đường tôi chở em về",
               singer: "Builinhtruong",
-              path: "./music/Duong Toi Cho Em Ve Lofi Version_ - buit.mp3",
-              image: "./img/Song3.png"
+              path: "./assets/music/Duong Toi Cho Em Ve Lofi Version_ - buit.mp3",
+              image: "./assets/img/Song3.png"
             },
             {
               name: "Mashup A B C D,Star",
               singer: " Changmie x Tiến Tới",
-              path: "./music/MashupABCD.mp3",
-              image:"./img/Song4.png"
+              path: "./assets/music/MashupABCD.mp3",
+              image:"./assets/img/Song4.png"
             },
             {
                 name: "没有你陪伴真的好孤单",
                 singer: "Mộng Nhiên",
-                path: "./music/Khong Co Anh Ben Canh Em That Su Rat Co.mp3",
-                image:"./img/Song5.jpeg"
+                path: "./assets/music/Khong Co Anh Ben Canh Em That Su Rat Co.mp3",
+                image:"./assets/img/Song5.jpeg"
             },
             {
               name: "Making A Lover",
               singer: "Making A Lover",
-              path: "./music/MakingALover.mp3",
-              image:"./img/Song6.jpg"
+              path: "./assets/music/MakingALover.mp3",
+              image:"./assets/img/Song6.jpg"
             },
             {
                 name: " 醒不来的梦",
                 singer: "Thập Nhị",
-                path: "./music/GiacMoKhongTheDanhThuc.mp3",
-                image:"./img/Song7.png"
+                path: "./assets/music/GiacMoKhongTheDanhThuc.mp3",
+                image:"./assets/img/Song7.png"
             } 
     ],
     setConfig: function(key,value) {
