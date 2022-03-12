@@ -59,7 +59,7 @@ const app = {
               name: "Making A Lover",
               singer: "Making A Lover",
               path: "./assets/music/MakingALover.mp3",
-              image:"./assets/img/Song6.jpg"
+              image:"./assets/img/Song6.png"
             },
             {
                 name: " 醒不来的梦",
